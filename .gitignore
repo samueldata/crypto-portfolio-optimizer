@@ -34,6 +34,7 @@ coverage.xml
 *.cover
 .hypothesis/
 .cache/
+__init__.py
 
 # Data files
 *.csv
@@ -59,7 +60,3 @@ coverage.xml
 Thumbs.db
 desktop.ini
 
-# Custom: Exclude specific directories and files
-src/
-!src/important_file.py
-!requirements.txt
